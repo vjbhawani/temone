@@ -1,0 +1,17 @@
+MANIFEST.in
+NEWS
+README
+setup.cfg
+doc/example.py
+lib/testresources/__init__.py
+lib/testresources/tests/TestUtil.py
+lib/testresources/tests/__init__.py
+lib/testresources/tests/test_optimising_test_suite.py
+lib/testresources/tests/test_resource_graph.py
+lib/testresources/tests/test_resourced_test_case.py
+lib/testresources/tests/test_test_loader.py
+lib/testresources/tests/test_test_resource.py
+pip-egg-info/testresources.egg-info/PKG-INFO
+pip-egg-info/testresources.egg-info/SOURCES.txt
+pip-egg-info/testresources.egg-info/dependency_links.txt
+pip-egg-info/testresources.egg-info/top_level.txt
